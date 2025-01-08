@@ -1,0 +1,4 @@
+What is a Module?
+A module is a single Python file (with a .py extension) that contains Python code.
+It can include functions, variables, classes, and even other imports.
+You can import a module into another Python file and use its code.
